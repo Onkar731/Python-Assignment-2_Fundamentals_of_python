@@ -1,0 +1,15 @@
+Q1. Write a command to get the python version you are using.
+-->   To get the version of python currently running on system is " python --version ".
+
+Q2. What is PVM?
+-->   PVM stands for "Python Virtual Machine". PVM is python environment to run python file.
+        PVM takes the python source file(.py) and compile it and build an intermediate file(.pyc) which         contains bytecode of the source file. PVM has an interpreter(JITC) to interprete file and convert it          into machine code.
+
+Q3. How to create .pyc (bytecode file) from python source file?
+-->   To create .pyc (bytecode file) from source file use a command " python -m py_compile filename ".
+
+Q4. How to run a python file from command prompt or terminal?
+-->   To run a python file from command prompt or terminal use a command " python3 filename.py ".
+
+Q5. Data types in python are not keywords - True or False
+-->   True, data types in python are not keywords because they are classes in python.
